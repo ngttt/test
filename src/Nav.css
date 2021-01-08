@@ -1,0 +1,28 @@
+
+.navbar {
+    padding-left: 20%;
+    padding-right: 20%;
+    height: 70px;
+    display: flex;
+}
+
+.img-nav {
+    width: 150px;
+    margin-right: 10px;
+}
+
+.search {
+    margin-top: 20px;
+    width:80%;
+    height: 40px;
+    border:1px solid gray;
+    border-radius: 5px ;
+}
+
+.btn-search{
+    margin-left: 10px;
+    height: 30px;
+    width: 80px;
+    margin-top: 25px;
+    cursor: pointer;
+}

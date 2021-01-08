@@ -1,0 +1,27 @@
+.filter{
+    text-align: center;
+    margin-top: 10px;
+    padding-right: 10%;
+    border: 2px solid grey;
+    border-radius: 30px;
+    height: 610px;
+}
+
+.filter-detail{
+    text-align: left;
+    margin-bottom: 10px;
+    list-style: none;
+}
+
+li {
+    width: 109px;
+}
+.span {
+     width: 100%;
+     color: darkslategrey;
+ }
+
+.span:hover{
+    color: green;
+    cursor: pointer;
+}

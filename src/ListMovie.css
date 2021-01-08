@@ -1,0 +1,62 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.list-movie{
+    margin-top: 20px;
+    display: inline-block;
+    width: 250px;
+    height: 420px;
+}
+
+.vote {
+    margin-top: 10px;
+    margin-left: 145px;
+    width: 70px;
+    height: 50px;
+    background-color: ghostwhite;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+}
+
+.vote-average {
+    padding-top: 5px;
+}
+
+.vote-average , .vote-count {
+    text-align: center;
+}
+
+.poster{
+    width: 90%;
+    height: 92%;
+}
+
+.en-date {
+    float: left;
+}
+.release-date {
+    margin-left: 10px;
+}
+
+.name {
+    margin-left: 5px;
+    position: absolute;
+    margin-top: -113px;
+}
+
+.title{
+    color: ghostwhite;
+    font-weight: bold;
+    width: 201px;
+}
+
+.language{
+    color: white;
+}
+
+.release-date{
+    color: red;
+}

@@ -1,0 +1,35 @@
+.movie-detail {
+    padding-left: 20px;
+    padding-top: 20px;
+    display: flex;
+}
+
+
+.p {
+    padding-left:10px ;
+    width: 80%;
+}
+
+.img-detail{
+    width: 30%;
+}
+
+.actor-image-thumbnail{
+    width: 100%;
+}
+
+.movie-info-actor{
+    float: left;
+    display: inline;
+}
+
+.actor-container{
+    margin-left: 10px;
+    width: 10%;
+    display: inline;
+    float: left;
+}
+
+.swiper-wrapper {
+    width: 0%
+}
